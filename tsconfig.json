@@ -13,7 +13,7 @@
     "jsx": "react-jsx",
     "module": "ESNext",
     "moduleResolution": "Node",
-    "resolveJsonModule": true,
+    "resolveJsonModule": true,        // permet d’importer package.json
     "target": "ESNext",
     "strict": true,
     "allowJs": true,
