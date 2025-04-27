@@ -29,7 +29,8 @@
     "unocss": "^0.61.9",
     "vite": "^5.4.15",
     "vite-plugin-node-polyfills": "^0.23.0",
-    "wrangler": "^4.13.2"
+    "wrangler": "^4.13.2",
+    "xterm": "^5.3.0"
   },
   "devDependencies": {
     "typescript": "^5.8.2",
