@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "bolt-free",
   "description": "A Free DIY AI Website Builder",
   "private": true,
