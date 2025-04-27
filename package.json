@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@nanostores/react": "^0.7.3",
+    "@remix-run/cloudflare": "^2.16.5",
     "@remix-run/dev": "^2.16.5",
     "@remix-run/react": "^2.16.3",
     "@unocss/reset": "66.1.0-beta.12",
